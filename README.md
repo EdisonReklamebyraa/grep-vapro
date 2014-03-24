@@ -1,4 +1,4 @@
-grep-mekanisk
+grep-vapro
 =============
 
-mekanisk.grep-as.no
+vapro.grep-as.no
